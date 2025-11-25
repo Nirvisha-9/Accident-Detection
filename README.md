@@ -41,3 +41,12 @@ Emergency response is critical in reducing fatalities from road accidents, espec
 1. Clone the repository:
    ```bash
    git clone <repository_url>
+
+   Install required dependencies:
+
+2.  pip install -r requirements.txt
+
+
+3.Run the project using a video feed or CCTV footage:
+
+python accident_detection.py
